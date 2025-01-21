@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #fdfdfd;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+    gap: 60px;
+  }
+  .list{
+    display: flex;
+    gap: 10px;
+  }
+  .navbar ul li {
+    gap: 10px;
+    font-size: 18px;
+    list-style: none;
+
+  }
+  
+  .navbar ul li a {
+    gap: 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    list-style: none;
+  }
+  
+  .navbar ul li a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,48 @@
+.banner-section {
+    background: linear-gradient(135deg, #ff5f6d, #ffc371);
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+  }
+  
+  .banner-content h4 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .banner-content h4 span {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  .banner-content h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 20px 0;
+  }
+  
+  .purchase-button {
+    background-color: white;
+    color: #ff5f6d;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .purchase-button:hover {
+    background-color: #ff5f6d;
+    color: white;
+  }
+  
+  .banner-content{
+    display: flex;
+    
+  }
+  .banner-section .banner-content .img{
+    /* width: 100px;
+    height: 100px; */
+  }
